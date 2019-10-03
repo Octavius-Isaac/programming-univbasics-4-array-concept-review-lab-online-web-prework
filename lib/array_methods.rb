@@ -4,7 +4,7 @@ count = 0
     array.index(value_to_find[count])
     count += 1 
   end 
-
+nil 
 end
 
 def find_max_value(array)
